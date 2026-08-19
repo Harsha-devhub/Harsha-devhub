@@ -1,150 +1,128 @@
-# Hi there, I'm Harsha 👋
+# Hi there 👋 I'm Harsha
 
-### Software Engineering Student | Full-Stack Developer | AI Enthusiast
+### Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
-I'm an Information Science Engineering student passionate about building scalable full-stack applications and AI-powered solutions that solve real-world problems.
+I'm an Information Science Engineering student passionate about building scalable full-stack applications and AI-powered software.
 
-I enjoy designing modern web applications, exploring Generative AI, and continuously improving my software engineering skills by building production-inspired projects with clean architecture and intuitive user experiences.
-
-I'm currently focused on strengthening my expertise in Full-Stack Development, Artificial Intelligence, and System Design while preparing for Software Engineer roles.
+I enjoy solving real-world problems through clean architecture, modern web technologies, backend engineering, and Generative AI. My goal is to become a Software Engineer who builds reliable, intelligent, and user-centric products.
 
 ---
 
-## 🚀 About Me
+## 🚀 Current Focus
 
-- 💻 Passionate about Full-Stack Web Development
-- 🤖 Building AI-powered applications using modern LLMs
-- 🌱 Currently learning System Design, Cloud Technologies, and AI Engineering
-- 🧠 Interested in Backend Development, APIs, Databases, and Scalable Systems
-- 🎯 Aspiring Software Engineer focused on solving real-world problems
+- 🌱 Learning System Design and Backend Engineering
+- 🤖 Building AI-powered web applications using LLMs
+- ⚡ Developing scalable full-stack applications
+- 📚 Exploring Cloud Technologies and AI Engineering
+- 🎯 Preparing for Software Engineering roles
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-- Java
-- JavaScript
-- TypeScript
-- SQL
-- HTML5
-- CSS3
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-- TanStack Start
-- ShadCN UI
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-
-- MongoDB
-- PostgreSQL
-- Supabase
-
-### Artificial Intelligence
-
-- Google Gemini
-- Prompt Engineering
-- AI-powered Applications
-
-### Tools & Technologies
-
-- Git
-- GitHub
-- VS Code
-- Vite
-- Cloudflare
-- Postman
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 ---
 
-# 🌟 Featured Projects
+### Frontend
 
-## 🚀 InterviewPrep AI
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square)
 
-An AI-powered interview preparation platform designed to help students and fresh graduates prepare for technical and HR interviews.
+---
 
-### Highlights
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+
+---
+
+### AI & Tools
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 InterviewPrep AI
+
+An AI-powered interview preparation platform that helps students prepare for technical and HR interviews through intelligent mock interviews, assessments, personalized feedback, and progress analytics.
+
+**Highlights**
 
 - AI-powered mock interviews
-- Technical interview practice
-- HR interview preparation
-- Timed assessments
+- Technical & HR interview preparation
 - Personalized AI feedback
 - Performance analytics
 - Learning roadmap
 - Secure authentication
 - Modern SaaS dashboard
 
-**Tech Stack**
+**Tech**
 
-React • TypeScript • TanStack Start • Supabase • PostgreSQL • Google Gemini • Tailwind CSS
+React • TypeScript • TanStack Start • Supabase • PostgreSQL • Google Gemini
 
 ---
 
 ## 🐞 Issue Tracking System
 
-A full-stack issue management platform built for teams to efficiently report, track, assign, and resolve software bugs.
+A full-stack issue management platform enabling teams to report, assign, monitor, and resolve software bugs through an intuitive dashboard.
 
-### Highlights
+**Highlights**
 
-- User authentication
-- Role-based access
-- Bug reporting
-- Issue assignment
-- Status tracking
-- Dashboard analytics
+- Authentication & Authorization
+- Issue Tracking
+- Bug Reporting
+- Dashboard Analytics
 - REST APIs
-- MongoDB integration
+- MongoDB Integration
 
-**Tech Stack**
+**Tech**
 
-React • Node.js • Express.js • MongoDB • JWT
-
----
-
-## 🤖 Fake Job Detection System
-
-A machine learning application that detects fraudulent job postings using Natural Language Processing and classification techniques.
-
-### Highlights
-
-- Data preprocessing
-- Feature engineering
-- Machine learning classification
-- Fraud prediction
-- Model evaluation
-- Interactive interface
-
-**Tech Stack**
-
-Python • Machine Learning • Flask • Scikit-learn
+React • Node.js • Express.js • MongoDB
 
 ---
 
-## 🌱 Plant Disease Detection
+## 🤖 Fake Job Detection
 
-An AI-powered application that identifies crop diseases from plant images using deep learning.
+A machine learning application that identifies fraudulent job postings using NLP and classification algorithms.
 
-### Highlights
+**Highlights**
 
-- Image classification
-- Deep Learning
-- CNN model
-- Disease prediction
-- User-friendly web interface
+- Machine Learning Pipeline
+- Data Preprocessing
+- Fraud Detection
+- Prediction Dashboard
+- Model Evaluation
 
-**Tech Stack**
+**Tech**
+
+Python • Flask • Scikit-learn
+
+---
+
+**Tech**
 
 React • Flask • TensorFlow • Keras
 
@@ -154,26 +132,14 @@ React • Flask • TensorFlow • Keras
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Agent Development
+- AI Agents
 - System Design
 - Cloud Computing
-- Advanced Backend Development
+- Scalable Backend Development
 
 ---
 
-# 🎯 Areas of Interest
-
-- Software Engineering
-- Artificial Intelligence
-- Full-Stack Development
-- Backend Engineering
-- Machine Learning
-- Cloud Technologies
-- Distributed Systems
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha-devhub&show_icons=true&theme=github_dark)
 
@@ -183,19 +149,14 @@ React • Flask • TensorFlow • Keras
 
 # 📫 Connect With Me
 
-### GitHub
-
-https://github.com/Harsha-devhub
-
-### LinkedIn
-
-https://www.linkedin.com/in/harshavardhan-n-5a7172351
+- GitHub: https://github.com/Harsha-devhub
+- LinkedIn: https://www.linkedin.com/in/harshavardhan-n-5a7172351
 
 ---
 
-# 💡 Philosophy
+## 💡 Motto
 
-> "I believe software should solve meaningful problems. Every project I build is an opportunity to learn, improve, and create solutions that make an impact."
+> *"I enjoy building software that solves real-world problems while continuously learning modern technologies and engineering best practices."*
 
 ---
 
