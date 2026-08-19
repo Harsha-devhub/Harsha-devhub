@@ -2,64 +2,64 @@
 
 ### Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
-I'm an Information Science Engineering student passionate about building scalable full-stack applications and AI-powered software.
-
-I enjoy solving real-world problems through clean architecture, modern web technologies, backend engineering, and Generative AI. My goal is to become a Software Engineer who builds reliable, intelligent, and user-centric products.
+> Passionate about building scalable full-stack applications and AI-powered software that solves real-world problems.
 
 ---
 
-## 🚀 Current Focus
+# 👨‍💻 About Me
 
-- 🌱 Learning System Design and Backend Engineering
-- 🤖 Building AI-powered web applications using LLMs
-- ⚡ Developing scalable full-stack applications
-- 📚 Exploring Cloud Technologies and AI Engineering
-- 🎯 Preparing for Software Engineering roles
+I'm an Information Science Engineering student with a strong interest in Software Engineering, Backend Development, and Artificial Intelligence.
+
+I enjoy designing modern web applications, developing scalable backend systems, and integrating AI into practical solutions. I'm continuously improving my software engineering skills by building production-inspired projects while learning modern software architecture and best practices.
+
+Currently, I'm focused on becoming a Software Engineer with expertise in Full-Stack Development, AI Engineering, and System Design.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Current Focus
+
+- 💻 Full-Stack Web Development
+- 🤖 AI-powered Applications
+- 🌐 Backend Engineering
+- ☁️ Cloud Technologies
+- 🧠 System Design
+- 📚 Data Structures & Algorithms
+
+---
+
+# ⚡ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+### Database
 
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+</p>
 
 ### AI & Tools
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudflare,vite" />
+</p>
+
+Google Gemini • Prompt Engineering • Machine Learning • Scikit-learn
 
 ---
 
@@ -67,19 +67,20 @@ I enjoy solving real-world problems through clean architecture, modern web techn
 
 ## 🎯 InterviewPrep AI
 
-An AI-powered interview preparation platform that helps students prepare for technical and HR interviews through intelligent mock interviews, assessments, personalized feedback, and progress analytics.
+An AI-powered interview preparation platform that helps students prepare for technical and HR interviews through intelligent mock interviews, assessments, personalized AI feedback, and progress analytics.
 
-**Highlights**
+### Highlights
 
 - AI-powered mock interviews
-- Technical & HR interview preparation
+- Technical interview preparation
+- HR interview preparation
 - Personalized AI feedback
 - Performance analytics
 - Learning roadmap
 - Secure authentication
 - Modern SaaS dashboard
 
-**Tech**
+**Tech Stack**
 
 React • TypeScript • TanStack Start • Supabase • PostgreSQL • Google Gemini
 
@@ -87,18 +88,17 @@ React • TypeScript • TanStack Start • Supabase • PostgreSQL • Google G
 
 ## 🐞 Issue Tracking System
 
-A full-stack issue management platform enabling teams to report, assign, monitor, and resolve software bugs through an intuitive dashboard.
+A collaborative issue management platform that enables teams to report, assign, monitor, and resolve software bugs.
 
-**Highlights**
+### Highlights
 
 - Authentication & Authorization
 - Issue Tracking
 - Bug Reporting
 - Dashboard Analytics
 - REST APIs
-- MongoDB Integration
 
-**Tech**
+**Tech Stack**
 
 React • Node.js • Express.js • MongoDB
 
@@ -106,25 +106,19 @@ React • Node.js • Express.js • MongoDB
 
 ## 🤖 Fake Job Detection
 
-A machine learning application that identifies fraudulent job postings using NLP and classification algorithms.
+A machine learning application that predicts fraudulent job postings using Natural Language Processing and classification techniques.
 
-**Highlights**
+### Highlights
 
-- Machine Learning Pipeline
 - Data Preprocessing
-- Fraud Detection
-- Prediction Dashboard
+- Feature Engineering
+- Machine Learning Classification
+- Fraud Prediction
 - Model Evaluation
 
-**Tech**
+**Tech Stack**
 
 Python • Flask • Scikit-learn
-
----
-
-**Tech**
-
-React • Flask • TensorFlow • Keras
 
 ---
 
@@ -135,28 +129,31 @@ React • Flask • TensorFlow • Keras
 - AI Agents
 - System Design
 - Cloud Computing
-- Scalable Backend Development
+- Advanced Backend Development
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 Areas of Interest
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha-devhub&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-devhub&layout=compact&theme=github_dark)
+- Software Engineering
+- Full-Stack Development
+- Backend Engineering
+- Artificial Intelligence
+- Cloud Computing
+- Distributed Systems
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/Harsha-devhub
-- LinkedIn: https://www.linkedin.com/in/harshavardhan-n-5a7172351
+- **GitHub:** https://github.com/Harsha-devhub
+- **LinkedIn:** https://www.linkedin.com/in/harshavardhan-n-5a7172351
 
 ---
 
-## 💡 Motto
+# 💡 Personal Philosophy
 
-> *"I enjoy building software that solves real-world problems while continuously learning modern technologies and engineering best practices."*
+> *"Great software is built through continuous learning, thoughtful design, and solving meaningful real-world problems."*
 
 ---
 
